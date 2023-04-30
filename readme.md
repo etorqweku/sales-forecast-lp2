@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  
 |-----------|-------------|:-------------:|
-| LP2       | tttt   |  ttttt| 
+| LP2       | Time Series Forecast   |  ttttt| 
 --------------------------------------------------
 
 ## Project Description
