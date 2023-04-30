@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  
 |-----------|-------------|:-------------:|
-| LP2       | Time Series Forecast   |  ttttt| 
+| LP2       | Time Series Forecast   |  [Time Series Regression](https://www.linkedin.com/pulse/t-geoffrey-aryee)| 
 --------------------------------------------------
 
 ## Project Description
