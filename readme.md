@@ -19,17 +19,15 @@ Firstly, the Initial Exploratory Data Analysis stage occurs after the business a
 
 Time Series Forecasting -Summary 
 The summary of the model is shown below:
-
 | Model      | MSE       | RMSE|  RMSLE|
 |-----------|-------------|:-------------:|------:|
-| AR model      |  133,593,712,396.331| 365,504.740  |0.460|
-|ARIMA model |   62,010,718,148.119    | 249,019.510        |   0.320   |     
-|Linear Model|  0.690 |  0.830 |  0.270  |     
-|Decision Tree|  0.070 |  0.260 | 0.060  |   
-|XgBoost| 0.120 |0.350 | 0.120|  
-|Random Forest Model|0.040 |0.200 | 0.050| 
-
-  
+|1.ARIMA|1.829194e+11|427690.80	|0.36|
+|2.AR|2.162500e+11|	465026.93|	0.42
+|3.SARIMA|2.145558e+11|	463201.67	|0.42|
+|4.Random Forest|2.742455e+05|523.68	|0.51
+|5.Decision Tree|4.741008e+05	|	688.55	|0.59
+|6.XGBoost|3.778828e+05	|	614.72	|2.30
+|7.Linear Regression|1.177904e+06	|	1085.31	|3.46
 
 ## Author
 Aryee Kwaku Geoffrey
